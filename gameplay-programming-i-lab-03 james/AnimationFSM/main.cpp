@@ -19,6 +19,8 @@ int main()
 		return EXIT_FAILURE;
 	}
 
+	// Phil sucks dick for money
+
 	// Setup Players Default Animated Sprite
 	AnimatedSprite animated_sprite(texture);
 	animated_sprite.addFrame(sf::IntRect(3, 3, 84, 84));
